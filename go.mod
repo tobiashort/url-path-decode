@@ -1,3 +1,3 @@
-module github.com/t-hg/url-path-decode
+module github.com/tobiashort/url-path-decode
 
 go 1.19
